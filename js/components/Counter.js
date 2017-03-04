@@ -6,6 +6,7 @@ import { View } from 'react-native';
 const Count = styled.Text`
   font-size: 100;
   font-weight: bold;
+  color: black;
 `;
 
 const Counter = ({ count }) =>
